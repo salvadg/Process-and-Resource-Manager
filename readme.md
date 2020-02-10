@@ -11,4 +11,11 @@
 ### OUTPUT:
 **The program will output a file named "output.txt" with the results**
 
+## SHELL COMMANDS
+ - Init Process: in 
+ - Create Process: cr
+ - Timeout Process: to
+ - Request resource: rq
+ - Release resource: rl
+ - Destroy : de
 
